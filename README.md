@@ -1,6 +1,8 @@
 # bamazon
 Created with Node.js and MySQL to make a Amazon like store front.
 
+## Changed the cost of the bluetooth headset after I took the screenshot because I realized i severely underpriced them lol.
+
 # Tech used
 - Node.js
 - npm install inquirer
